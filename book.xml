@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+  <book id="b1">
+    <title>happy</title>
+    <author>Hanyu Zhao</author>
+    <price>39.99</price>
+  </book>
+  <book id="b2">
+    <title>Good girl</title>
+    <author>Hanyu Li</author>
+    <price>45.50</price>
+  </book>
+  <book id="b3">
+    <title>JavaScript</title>
+    <author>Zhan xiao</author>
+    <price>29.90</price>
+  </book>
+</catalogue>
